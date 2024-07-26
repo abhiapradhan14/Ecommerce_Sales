@@ -3,4 +3,5 @@ Used complex parameters to drill down in worksheet and customzation using filter
 Created connections, joined new tables, calculations to manipulate data and enabled user driven parameteres for visualizations.
 Used different type of charts for better visualization.
 <p style="text-align:center;">
-  <img width="588" alt="Ecommerce sales" src="https://github.com/user-attachments/assets/d51e1a6a-55c8-4423-b930-c7d841578b54"></p>
+<img width="588" alt="Ecommerce sales" src="https://github.com/user-attachments/assets/d51e1a6a-55c8-4423-b930-c7d841578b54">
+</p>
